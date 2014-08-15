@@ -2,7 +2,6 @@ icontool
 ========
 
 图标制作工具
-
 ![github](http://fsh8.u.qiniudn.com/icon_100.png "github")
 
 该工具用于快速制作AIR所用的图标，内置两个压缩工具pngquant 和 pngout
